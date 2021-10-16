@@ -1,4 +1,4 @@
-# flutter_test_1
+# flutter-test-app
 
 A new Flutter project.
 
